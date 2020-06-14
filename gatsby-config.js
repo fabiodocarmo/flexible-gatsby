@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Flexible Gatsby`,
-    description: `I am a web developer focusing on front-end development. Always hungry to keep learning.`,
-    author: `David Freeman`,
-    siteUrl: `https://github.com/wangonya/flexible-gatsby`,
+    title: `FBDCRMO`,
+    description: `Arquiteto de Soluções, focado na na construção de soluções baseadas nas necessidades do negócio.`,
+    author: `Fábio do Carmo`,
+    siteUrl: `https://www.fabiodocarmo.com`,
     social: {
-      twitter: `wang0nya`,
-      facebook: ``,
-      github: `wangonya`,
-      linkedin: `wangonya`,
-      email: `kwangonya@gmail.com`,
+      twitter: `fabiodocarmo`,
+      facebook: `fabiodocarmo`,
+      github: `fabiodocarmo`,
+      linkedin: `fabiodocarmo`,
+      email: `conatato@fabiodocarmo.com`,
     },
   },
   plugins: [
@@ -46,7 +46,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-169316295-1`,
       },
     },
     `gatsby-plugin-feed`,
