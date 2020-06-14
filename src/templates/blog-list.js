@@ -44,7 +44,7 @@ class BlogIndex extends React.Component {
                   {node.frontmatter.date}&nbsp;&nbsp;—&nbsp;
                 </span>
                 <span className="post-words">
-                  {node.timeToRead} minuto de leitura
+                  {node.timeToRead} min
                 </span>
               </div>
             </article>

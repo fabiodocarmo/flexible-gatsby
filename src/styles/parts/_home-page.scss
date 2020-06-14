@@ -20,7 +20,7 @@
     margin: 0 auto 10px;
     border-radius: 100%;
     overflow: hidden;
-    background-color: $dark;
+    background-color: $fbdcr-color-ligth;
   }
   img {
     width: 100%;
@@ -32,7 +32,7 @@
     }
   }
   .author-name {
-    font-family: 'PT Serif', serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     margin: 0 0 10px;
     position: relative;
     padding-bottom: 15px;
@@ -171,7 +171,7 @@ footer {
       font-size: 30px;
       font-weight: 400;
       a {
-        font-family: 'PT Serif', serif;
+        font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
         text-decoration: none;
         color: $dark-blue;
       }
